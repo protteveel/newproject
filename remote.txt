@@ -1,3 +1,0 @@
-Sample text file created through the GitHub web interface.
-Now it's updated on the local repository.
-Second line added locallly.
